@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('⚡ UᎮDΛTΞS ⚡', url='https://t.me/https://t.me/Andhra_movies')
+                InlineKeyboardButton('⚡ UᎮDΛTΞS ⚡', url='https://t.me/Andhra_movies')
             ],
             [
                 InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url=f"https://youtube.com/@telugumoviedost7979"),
